@@ -76,6 +76,7 @@
     }
   },
   "devDependencies": {
+    "@react-native/gradle-plugin": "0.75.4",
     "@commitlint/config-conventional": "^17.0.2",
     "@react-native-community/eslint-config": "^3.0.2",
     "@release-it/conventional-changelog": "^5.0.0",
@@ -107,7 +108,7 @@
     "pretty-quick": "^1.11.1",
     "react": "18.2.0",
     "react-dom": "^18.2.0",
-    "react-native": "^0.74.4",
+    "react-native": "0.75.4",
     "react-native-builder-bob": "^0.23.0",
     "release-it": "^15.0.0",
     "semver": "^6.3.0",

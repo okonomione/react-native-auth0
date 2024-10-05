@@ -1,4 +1,4 @@
-package com.auth0.react;
+package com.auth0.android;
 
 import com.auth0.android.authentication.storage.AuthenticationLevel;
 import com.auth0.android.authentication.storage.LocalAuthenticationOptions;

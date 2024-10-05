@@ -1,4 +1,4 @@
-package com.auth0.react;
+package com.auth0.android;
 
 import java.util.Arrays;
 import java.util.Collections;

@@ -1,4 +1,4 @@
-package com.auth0.react;
+package com.auth0.android;
 
 import android.app.Activity;
 import android.content.Intent;

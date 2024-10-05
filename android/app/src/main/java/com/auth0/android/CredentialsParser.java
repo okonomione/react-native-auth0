@@ -1,4 +1,4 @@
-package com.auth0.react;
+package com.auth0.android;
 
 import com.auth0.android.authentication.storage.CredentialsManagerException;
 import com.auth0.android.result.Credentials;
